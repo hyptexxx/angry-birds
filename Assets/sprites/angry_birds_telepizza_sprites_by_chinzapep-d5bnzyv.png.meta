@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: b65c43a46f6724e44950b91a3ed9f36d
+timeCreated: 1472248272
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_0
+    21300002: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_1
+    21300004: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_2
+    21300006: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_3
+    21300008: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_4
+    21300010: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_5
+    21300012: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_6
+    21300014: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_7
+    21300016: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_8
+    21300018: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_9
+    21300020: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_10
+    21300022: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_11
+    21300024: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_12
+    21300026: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_13
+    21300028: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_14
+    21300030: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_15
+    21300032: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_16
+    21300034: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_17
+    21300036: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_18
+    21300038: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_19
+    21300040: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_20
+    21300042: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_21
+    21300044: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_22
+    21300046: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_23
+    21300048: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_24
+    21300050: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_25
+    21300052: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_26
+    21300054: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_27
+    21300056: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_28
+    21300058: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_29
+    21300060: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_30
+    21300062: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_31
+    21300064: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_32
+    21300066: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_33
+    21300068: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_34
+    21300070: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_35
+    21300072: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_36
+    21300074: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_37
+    21300076: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_38
+    21300078: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 844
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 844
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 844
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 844
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 754
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 754
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 754
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 754
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 664
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 664
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 664
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 664
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 574
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 574
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 574
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 574
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 484
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 484
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 484
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 484
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 394
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 394
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 140
+        width: 77
+        height: 84
+      alignment: 9
+      pivot: {x: -0.51975715, y: -1.5133669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_23
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 394
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 304
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 304
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 304
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 304
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_28
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 214
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 214
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 214
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_31
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 214
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_32
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 124
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 124
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_34
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 124
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_35
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 124
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_36
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 34
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 34
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angry_birds_telepizza_sprites_by_chinzapep-d5bnzyv_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 34
+        width: 90
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
